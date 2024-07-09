@@ -1,3 +1,3 @@
 
-resultado = 5 + 5
+resultado = 10 + 10
 print(resultado)
